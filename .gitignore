@@ -1,0 +1,24 @@
+# Vivado / XSim
+xsim.dir/
+.Xil/
+*.jou
+*.log
+*.pb
+*.wdb
+*.str
+webtalk*
+xelab.*
+xvlog.*
+xsim.*
+
+# waveforms
+*.vcd
+*.wdb
+*.ghw
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
